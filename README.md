@@ -5,7 +5,7 @@
 - 🦊 GitLab since 2016
 - 👨‍👩‍👧‍👧 Husband to Beth and dad to Emilia & Florence
 - 🐶 Owner of Milo the cockapoo
-- ☕ Powered primarily by sugar
+- 🍬 Powered primarily by sugar
 - 🏃 Usually training for some running event
 
 ## Working with me 🤝
@@ -33,5 +33,4 @@ When I'm not coding you'll probably find me:
 
 - [Twitter](https://twitter.com/iamphill)
 - [Reddit](https://www.reddit.com/user/iamphill)
-- [GitHub](https://github.com/iamphill)
 - [GitLab](https://gitlab.com/iamphill)
